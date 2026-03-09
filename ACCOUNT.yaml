@@ -1,0 +1,12 @@
+services:
+  convex:
+    project: CompetitorSpy
+  vercel:
+    project: CompetitorSpy
+  stripe:
+    mode: live
+  nvidia:
+    api: nvidia-nims
+  github:
+    owner: mxn2020
+    repo: competitorspy
