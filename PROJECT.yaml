@@ -1,16 +1,18 @@
-id: c839ad22-d31b-4eaa-b263-e69b9a4a69d1
 name: competitorspy
-description: "SWOT-style competitive analysis reports"
+project_scope: main
+project_type: standalone
+description: SWOT-style competitive analysis reports
 tier: prototype
 lane: side-projects
 priority: low
-category: analysis
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/competitorspy
+repo: "https://github.com/mxn2020/competitorspy"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, analysis, competitive, swot, business, research]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: c839ad22-d31b-4eaa-b263-e69b9a4a69d1
